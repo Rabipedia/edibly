@@ -1,0 +1,28 @@
+.meal{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: darkgray;
+}
+.meal-details{
+    margin-left: 100px;
+}
+.meal-name{
+    color: blueviolet;
+    font-weight: 400;
+}
+.meal img{
+    height: 200px;
+    width: 300px;
+}
+.btn-regular{
+    background-color: green;
+    color: whitesmoke;
+    width: 150px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
