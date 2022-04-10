@@ -7,3 +7,8 @@
     margin-right: 10px;
     margin-left: 50px;
 }
+.search-container{
+    background-color: black;
+    text-align: center;
+    line-height: 40px;
+}
